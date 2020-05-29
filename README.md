@@ -1,5 +1,5 @@
-[![CircleCI](https://circleci.com/gh/zeehn/microservices-deployment
-.svg?style=svg)](https://circleci.com/gh/zeehn/microservices-deployment)
+[![CircleCI](https://circleci.com/gh/zeehn/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/zeehn/Operationalize-a-Machine-Learning-Microservice-API)
+
 
 
 ## Project Overview
